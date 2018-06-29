@@ -1,5 +1,5 @@
 # Mohamed's Portfolio
-#### By : **Mohamed Abdullahi ELmoge**
+#### By : **Mohamed Abdullahi Elmoge**
 ## Description
 This is a descriptive webpage about myself.
 ## Language Used for this Website
