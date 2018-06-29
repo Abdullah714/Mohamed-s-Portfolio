@@ -8,5 +8,5 @@ This is an assignment i had to work on which took quite some time.
 ## Contacts
 For direct feedback, please send an email to: Shalnark714@gmail.com
 ### License
-*MIT License* Feel free to edit these files. Please provide an act of attribution & do not hold me liable for anything.
+*MIT License*. Feel free to edit these files. Please provide an act of attribution & do not hold me liable for anything.
 Copyright (c) 2018 
