@@ -1,0 +1,91 @@
+/* CSS Document */
+
+body{
+background-image: url(https://coolbackgrounds.io/images/backgrounds/ranger-993af1f3.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1{
+  color: #3399ff
+;
+}
+
+h2{
+  margin-left: 20px;
+  color: #669999;
+
+}
+
+.Education{
+  margin-left: 5px;
+  margin-top: 50px;
+  color: #cc0099;
+
+}
+
+h4{
+  margin-top: 40px;
+}
+
+.Reason{
+  font-size: 15px;
+  color: #000000;
+}
+
+
+.edureason{
+  color: #cc0099;
+  font-size: 15px;
+}
+
+.Hobbies{
+color: #660066;
+margin-left: 70px;
+
+}
+
+ol{
+  color: #660066;
+  margin-left: 70px;
+  font-size: 15px;
+}
+
+.one{
+  margin-top: 5px;
+}
+
+
+img{
+  margin-left: 180px;
+  margin-bottom: 35px;
+}
+
+.job{
+  margin-left: 160px;
+  margin-bottom: 35px;
+  color: #000000;
+}
+
+.finish{
+  margin-left: 160px;
+  margin-bottom: 50px;
+  color: #000000;
+}
+
+h3{
+  color: #000000;
+}
+
+.projects{
+  margin-left: 600px;
+  margin-top: 20px
+}
+
+.lit{
+  margin-left: 650px;
+}
+
+.photo{
+  margin-left: 1150px;
+}
